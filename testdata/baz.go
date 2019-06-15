@@ -1,0 +1,3 @@
+// +build baz
+
+package testdata

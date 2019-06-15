@@ -1,0 +1,3 @@
+// +build foo
+
+package testdata
